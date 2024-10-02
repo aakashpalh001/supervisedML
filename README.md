@@ -69,7 +69,8 @@ The dataset is loaded from a CSV file.
 
 ## Results Visualization
 
-![Hours vs Scores](https://link_to_plot_image)
+![image](https://github.com/user-attachments/assets/3396c0d5-72dd-49cb-8180-a6dd017b6a3d)
+
 
 The above graph shows the relationship between the number of hours studied and the scores obtained by students.
 
